@@ -1,0 +1,23 @@
+{
+  "name": "(MultiVision)",
+  "version": "1.0.0",
+  "description": "Extreeme Tech Training",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramonmulia/MEAN-Stack.git"
+  },
+  "author": "Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonmulia/MEAN-Stack/issues"
+  },
+  "homepage": "https://github.com/ramonmulia/MEAN-Stack",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  }
+}
